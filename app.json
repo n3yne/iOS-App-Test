@@ -8,11 +8,11 @@
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.pghnetworks.iosapptest",
+      "bundleIdentifier": "com.esscey.iosapptest",
       "buildNumber": "1"
     },
     "android": {
-      "package": "com.pghnetworks.iosapptest",
+      "package": "com.esscey.iosapptest",
       "versionCode": 1,
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
